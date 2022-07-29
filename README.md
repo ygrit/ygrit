@@ -2,7 +2,7 @@
 <p> <g-emoji class="g-emoji" alias="exploding_head" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f92p.png"></g-emoji>
 I have skills in front-end developement </p>
 <p> I'm currently working on my personal portfolio 💻</p>
-<p> I'm looking for a company where I an upgrade my knowledge and be a part of an amazing team ✌️	
+<p> I'm looking for a company where I can upgrade my knowledge and be a part of an amazing team ✌️	
 </br>
 
 <h2> Skills </h2>
