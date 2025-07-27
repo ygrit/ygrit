@@ -37,7 +37,9 @@ I have skills in front-end and also back-end developement </p>
 <a target="_blank" rel="noopener noreferrer" href=https://camo.githubusercontent.com/fdd42676c11aa8a4e4be8bc2b6644c0355b17f049957a1c613a559d91af93107/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d7953514c2d3030356338333f7374796c653d666f722d7468652d6261646765266c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465>
 <img src="https://camo.githubusercontent.com/fdd42676c11aa8a4e4be8bc2b6644c0355b17f049957a1c613a559d91af93107/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d7953514c2d3030356338333f7374796c653d666f722d7468652d6261646765266c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465" alt="MySQL" data-canonical-src="https://img.shields.io/badge/MySQL-005c83?style=for-the-badge&logo=mysql&logoColor=white" style="max-width: 100%";>
 </a>
+ PHP,  Angular,  Symphony,  Python,  API REST,  VUE3.js,  JavaScript 
 
+IntelliJ IDEA, Eclipse, Spring Initializr, Visual Studio Code, WebStorm, PHPStorm, AndroidStudio, GitHub
 <h2> Contact me 📫</h2> 
 
 <a href="https://www.linkedin.com/in/yuliya-g-939b35140/" rel="nofollow">Linkedin</a>
