@@ -3,7 +3,8 @@
 
 I have skills in front-end and also back-end developement </p>
 <p> I'm currently working on my personal portfolio 💻</p>
-<p> Being a student at ENI School, Quimper I am looking for an for hand-on training apportunity (13/10/2025-05/12/2025) in a company where I can upgrade my knowledge and be a part of an amazing team ✌️	
+
+<p> Being a student at ENI School, Quimper I am looking for hands-on training opportunity (13/10/2025-05/12/2025) in a company where I can upgrade my knowledge and be a part of an amazing team ✌️	
 </br>
 
 <h2> Skills </h2>
