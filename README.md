@@ -7,39 +7,95 @@ I have skills in front-end and also back-end developement </p>
 <p> Being a student at ENI School, Quimper I am looking for hands-on training opportunity (13/10/2025-05/12/2025) in a company where I can upgrade my knowledge and be a part of an amazing team ✌️	
 </br>
 
-<h2> Skills </h2>
-<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/d63d473e728e20a286d22bb2226a7bf45a2b9ac6c72c59c0e61e9730bfe4168c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d4533344632363f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465">
-<img src="https://camo.githubusercontent.com/d63d473e728e20a286d22bb2226a7bf45a2b9ac6c72c59c0e61e9730bfe4168c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d4533344632363f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465" alt="html5" data-canonical-src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" style="max-width: 100%";>
-</a>
-<a target="_blank" rel="noopener noreferrer" href=https://camo.githubusercontent.com/3a0f693cfa032ea4404e8e02d485599bd0d192282b921026e89d271aaa3d7565/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f435353332d3135373242363f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465>
-<img src="https://camo.githubusercontent.com/3a0f693cfa032ea4404e8e02d485599bd0d192282b921026e89d271aaa3d7565/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f435353332d3135373242363f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465" alt="css3" data-canonical-src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" style="max-width: 100%";>
-</a>
-<a target="_blank" rel="noopener noreferrer" href=https://camo.githubusercontent.com/8849f369ac031cc842a4ab4248c7f7db6a4b593cad1f2d1c01d3aeb6f0f8dca7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f536173732d4343363639393f7374796c653d666f722d7468652d6261646765266c6f676f3d73617373266c6f676f436f6c6f723d7768697465>
-<img src="https://camo.githubusercontent.com/8849f369ac031cc842a4ab4248c7f7db6a4b593cad1f2d1c01d3aeb6f0f8dca7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f536173732d4343363639393f7374796c653d666f722d7468652d6261646765266c6f676f3d73617373266c6f676f436f6c6f723d7768697465" alt="sass" data-canonical-src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" style="max-width: 100%";>
-</a>
+<section class="skills">
+  <h2>Langages & Frameworks</h2>
+  <i class="devicon-html5-plain colored"></i>
+  <i class="devicon-css3-plain colored"></i>
+  <i class="devicon-javascript-plain colored"></i>
+  <i class="devicon-java-plain colored"></i>
+  <i class="devicon-php-plain colored"></i>
+  <i class="devicon-python-plain colored"></i>
+  <i class="devicon-mysql-plain colored"></i> <!-- pour SQL -->
+  <i class="devicon-mongodb-plain colored"></i> <!-- NoSQL / MongoDB -->
+  <i class="devicon-nodejs-plain colored"></i>
+  <i class="devicon-spring-plain colored"></i>
+  <i class="devicon-symfony-plain colored"></i>
+  <i class="devicon-vuejs-plain colored"></i>
+  <i class="devicon-angularjs-plain colored"></i>
+  <i class="devicon-express-original colored"></i>
+</section>
 
-<a target="_blank" rel="noopener noreferrer" href=https://camo.githubusercontent.com/93c855ae825c1757f3426f05a05f4949d3b786c5b22d0edb53143a9e8f8499f6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d3332333333303f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d463744463145>
-<img src="https://camo.githubusercontent.com/93c855ae825c1757f3426f05a05f4949d3b786c5b22d0edb53143a9e8f8499f6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d3332333333303f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d463744463145" alt="javascript" data-canonical-src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" style="max-width: 100%";>
-</a>
+<section class="tools">
+  <h2>Outils & IDE</h2>
+  <i class="devicon-intellij-plain colored"></i>
+  <i class="devicon-eclipse-plain colored"></i>
+  <i class="devicon-visualstudio-plain colored"></i>
+  <i class="devicon-webstorm-plain colored"></i>
+  <i class="devicon-spring-plain colored"></i> <!-- Spring Initializr -->
+</section>
+Pourquoi Devicon est idéal :
+couvre la majorité des technologies & outils que tu as listés 
+devicon.dev
+devicon-website.vercel.app
+
+supporte SVG ou fonts, versions colorées ou monochromes
+
+utilisation simple avec <i> et classes CSS 
+GitHub
+
+🎨 Personnalisation CSS
+Tu peux ajuster la taille et la couleur via CSS :
+
+css
+Copier
+Modifier
+.skills i, .tools i {
+  font-size: 2rem;
+  margin: 0 0.5rem;
+}
+.skills i.colored, .tools i.colored {
+  opacity: 0.9;
+}
+🧩 Utiliser Simple Icons (optionnel)
+Simple Icons ne couvre pas tous les outils, mais peut être utile pour les technologies comme Java Spring Boot, API, REST, etc. Tu peux importer directement les SVG via exemple :
+
+html
+Copier
+Modifier
+<img src="https://cdn.simpleicons.org/java/#007396" alt="Java" width="40" height="40">
+Ou récupérer les SVG sur [simpleicons.org] pour une personnalisation couleur / taille. 
+simpleicons.org
++1
+wordpress.com
++1
+
+✅ Résumé rapide
+Source	Langages & Frameworks	Outils & IDE	Licence
+Devicon	✔️ Pratiquement tous	✔️ IntelliJ, Eclipse, VS Code, WebStorm, Spring Initializr	MIT
+Simple Icons	✅ Bon soutien SVG	🔸 Moins exhaustif (limité aux marques connues)	CC0/domain public
+
+Souhaites-tu que je génère :
+
+un snippet complet à intégrer dans ton index.html ou README,
+
+ou une version React / Markdown pour ton portfolio GitHub ?
+
+N’hésite pas à me préciser si tu veux un style ou format particulier 😊
 
 
-<a target="_blank" rel="noopener noreferrer" href=https://camo.githubusercontent.com/5570c2e81e8a9a8ef75662a9c3c2f58e5114c8423a31e3f3c2ff59ab9d1bf08b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6f64654a732d3333393933333f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6f6465646f746a73266c6f676f436f6c6f723d7768697465>
-<img src="https://camo.githubusercontent.com/5570c2e81e8a9a8ef75662a9c3c2f58e5114c8423a31e3f3c2ff59ab9d1bf08b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6f64654a732d3333393933333f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6f6465646f746a73266c6f676f436f6c6f723d7768697465" alt="NodeJs" data-canonical-src="https://img.shields.io/badge/NodeJs-339933?style=for-the-badge&logo=nodedotjs&logoColor=F7DF1E" style="max-width: 100%";>
-</a>
-<a target="_blank" rel="noopener noreferrer" href=https://camo.githubusercontent.com/72e92f69f36703548704a9eeda2a9889c2756b5e08f01a9aec6e658c148d014e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6f6e676f44422d3445413934423f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6f6e676f6462266c6f676f436f6c6f723d7768697465>
-<img src="https://camo.githubusercontent.com/72e92f69f36703548704a9eeda2a9889c2756b5e08f01a9aec6e658c148d014e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6f6e676f44422d3445413934423f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6f6e676f6462266c6f676f436f6c6f723d7768697465" alt="MongoDB" data-canonical-src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" style="max-width: 100%";>
-</a>
-<a target="_blank" rel="noopener noreferrer" href=https://camo.githubusercontent.com/cfbf9b01b8237970c8064e8af0dc14dd46fb21bfaf5f0654fccec0e9593722b6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f457870726573732e6a732d4545454545453f7374796c653d666f722d7468652d6261646765266c6f676f3d65787072657373266c6f676f436f6c6f723d626c61636b>
-<img src="https://camo.githubusercontent.com/cfbf9b01b8237970c8064e8af0dc14dd46fb21bfaf5f0654fccec0e9593722b6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f457870726573732e6a732d4545454545453f7374796c653d666f722d7468652d6261646765266c6f676f3d65787072657373266c6f676f436f6c6f723d626c61636b" alt="Express.js" data-canonical-src="https://img.shields.io/badge/Express.js-EEEEEE?style=for-the-badge&logo=express&logoColor=black" style="max-width: 100%";>
-</a>
 
 
-<a target="_blank" rel="noopener noreferrer" href=https://camo.githubusercontent.com/fdd42676c11aa8a4e4be8bc2b6644c0355b17f049957a1c613a559d91af93107/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d7953514c2d3030356338333f7374796c653d666f722d7468652d6261646765266c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465>
-<img src="https://camo.githubusercontent.com/fdd42676c11aa8a4e4be8bc2b6644c0355b17f049957a1c613a559d91af93107/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d7953514c2d3030356338333f7374796c653d666f722d7468652d6261646765266c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465" alt="MySQL" data-canonical-src="https://img.shields.io/badge/MySQL-005c83?style=for-the-badge&logo=mysql&logoColor=white" style="max-width: 100%";>
-</a>
- PHP,  Angular,  Symphony,  Python,  API REST,  VUE3.js,  JavaScript 
 
-IntelliJ IDEA, Eclipse, Spring Initializr, Visual Studio Code, WebStorm, PHPStorm, AndroidStudio, GitHub
+
+
+
+
+
+
+Sources
+
+Demander à ChatGPT
+
 <h2> Contact me 📫</h2> 
 
 <a href="https://www.linkedin.com/in/yuliya-g-939b35140/" rel="nofollow">Linkedin</a>
